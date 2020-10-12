@@ -7,6 +7,7 @@ This report aims to use the universal kriging method by choosing an adequate spa
 
 ## General info
 The data used in this report relates to the number of money deposits in each Chase branches in Ohio state. Theses yearly data is obtained from the Summary of Deposits originated from https://www.fdic.gov. The Summary of Deposits is the annual survey of each branch office deposits of all institutions that are insured by Federal Deposit Insurance Corporation (FDIC).
+
 The data set consists of one variable that is yearly money deposits (deposits) in thousands of dollars ($000) at 264 Chase branches in Ohio state (between 38oN-42oN and 81oW-85oW), recorded between the years 2010 and 2016. These data are changed with time (yearly) and irregular in space. The data are complete with no missing value. Still, the branches themselves are not located everywhere in Ohio; therefore, if Chase has knowledge about the number of money deposits in the whole area, they can consider where to open the next locations.
 
 ## Results
